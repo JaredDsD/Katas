@@ -1,5 +1,5 @@
-//Title:
-//Link:
+//Title: Sort deck of cards
+//Link: https://www.codewars.com/kata/56f399b59821793533000683/javascript
 
 function sortCards(array) {
   const defaultCardOrder = [
