@@ -1,5 +1,5 @@
 //Title: Bouncing Ball
-//Link:
+//Link: https://www.codewars.com/kata/5a40c250c5e284a76400008c/javascript
 
 function bouncingBall(initialHeight, bouncingProportion) {
   let bounces = 0;
